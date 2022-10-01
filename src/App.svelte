@@ -98,7 +98,7 @@
 	<!-- Widget -->
 	<article>
 		<!-- Container -->
-		WIP
+		WIP2
 		<!-- xContainer -->
 	</article>
 	<!-- xWidget -->
